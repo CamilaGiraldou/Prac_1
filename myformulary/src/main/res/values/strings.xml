@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">MyFormulary</string>
+    <string name="Loggin">Loggin</string>
+    <string name="Password">Password</string>
+    <string name="Repite_Password">Repite_Password</string>
+    <string name="Email">Email</string>
+    <string name="Femenino">Femenino</string>
+    <string name="Masculino">Masculino</string>
+    <string name="Ciudad">Ciudad</string>
+    <string name="FechaNacimiento">Fecha de Nacimiento</string>
+    <string name="Hobbies">Hobbies</string>
+    <string name="cine">Cine</string>
+    <string name="dormir">Dormir</string>
+    <string name="comer">Comer</string>
+    <string name="musica">Musica</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="registro">REGISTRO</string>
+    <string name="User">User</string>
+    <string name="correr">correr</string>
+    <string name="Informacion">Informacion</string>
+    <string name="FechaEscogida">Fecha Escogida</string>
+
+    <string-array name="ciudad">
+        <item>Arauca</item>
+        <item>Armenia</item>
+        <item>Barranquilla</item>
+        <item>Bogotá</item>
+        <item>Cali</item>
+        <item>Cartagena de Indias</item>
+        <item>Leticia</item>
+        <item>Medellín</item>
+        <item>Tunja</item>
+        <item>Manizales</item>
+        <item>Florencia</item>
+        <item>Yopal</item>
+        <item>Popayán</item>
+        <item>Valledupar</item>
+        <item>Quibdó</item>
+        <item>Montería</item>
+        <item>Inírida</item>
+        <item>San José del Guaviare</item>
+        <item>Neiva</item>
+        <item>Riohacha</item>
+        <item>Santa Marta</item>
+        <item>Villavicencio</item>
+        <item>Pasto</item>
+        <item>San José de Cúcuta</item>
+        <item>Mocoa</item>
+        <item>Pereira</item>
+        <item>San Andrés</item>
+        <item>Bucaramanga</item>
+        <item>Sincelejo</item>
+        <item>Ibagué</item>
+        <item>Mitú</item>
+        <item>Puerto Carreño</item>
+    </string-array>
+</resources>

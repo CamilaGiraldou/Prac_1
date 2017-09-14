@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My_Geometry</string>
+    <string name="Cubo">Cubo</string>
+    <string name="Cuadro">Cuadro</string>
+    <string name="Circulo">Circulo</string>
+    <string name="Triangulo">Triangulo</string>
+    <string name="Perimetro">Perimetro</string>
+    <string name="Area">Area</string>
+    <string name="Volumen">Volumen</string>
+    <string name="Calcular">Calcular</string>
+    <string name="Lado">Lado</string>
+    <string name="Lado2">Lado2</string>
+    <string name="Base">Base</string>
+    <string name="Radio">Radio</string>
+</resources>
